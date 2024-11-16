@@ -1,0 +1,505 @@
+{
+  "436745c5e3795384a888ccf50d4ce8ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6092437518e16b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731769484801,
+        "stop" : 1731769649326,
+        "duration" : 164525
+      }
+    } ]
+  },
+  "b085d0459fa11535df28fc594c4fe567" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2633a46a8d0d8286",
+      "status" : "failed",
+      "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
+      "time" : {
+        "start" : 1731769649329,
+        "stop" : 1731769742667,
+        "duration" : 93338
+      }
+    } ]
+  },
+  "99bf3ed8c4e61d1c81c783a5b50899bf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "11bb7195c2e284b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731769032510,
+        "stop" : 1731769049560,
+        "duration" : 17050
+      }
+    } ]
+  },
+  "33e9f75dd29d5dfd49f3b7258001abf4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e2386eaa03ed8359",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731769382726,
+        "stop" : 1731769484791,
+        "duration" : 102065
+      }
+    } ]
+  },
+  "22b62c6b8c63e828f69cc48ca2754a7d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "998eaf7ef58ea38b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731768996113,
+        "stop" : 1731769014656,
+        "duration" : 18543
+      }
+    } ]
+  },
+  "69165e242e58721d0f86ce51cb953e89" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3457fb5f7df4f74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731770202862,
+        "stop" : 1731770295768,
+        "duration" : 92906
+      }
+    } ]
+  },
+  "95305f45be46bc543603a6ca210a79a4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a47987c6fbedc196",
+      "status" : "failed",
+      "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
+      "time" : {
+        "start" : 1731769742669,
+        "stop" : 1731769832555,
+        "duration" : 89886
+      }
+    } ]
+  },
+  "30b68ecaf1a61e007d997036cff5391" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d8a2d97124a26dae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731768887358,
+        "stop" : 1731768904043,
+        "duration" : 16685
+      }
+    } ]
+  },
+  "3e7a06a53901d9f4cd01101b980b9d25" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57f3e41a164ee67d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731770022382,
+        "stop" : 1731770136732,
+        "duration" : 114350
+      }
+    } ]
+  },
+  "609e463829c23a22dfed8b78486ceafb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2524d57b8d0297e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731769014659,
+        "stop" : 1731769032504,
+        "duration" : 17845
+      }
+    } ]
+  },
+  "44dcea5add8b35b9af3992a5b9cebde9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "885a696c8ac6a0cb",
+      "status" : "failed",
+      "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
+      "time" : {
+        "start" : 1731770136736,
+        "stop" : 1731770202858,
+        "duration" : 66122
+      }
+    } ]
+  },
+  "16803ddd25854d6aa1b3e5658472d571" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a81d059f0123b947",
+      "status" : "failed",
+      "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
+      "time" : {
+        "start" : 1731768868704,
+        "stop" : 1731768887306,
+        "duration" : 18602
+      }
+    } ]
+  },
+  "35fe80ba9807f35061c083e3a5f3d06e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d8ac6bc6d7c65dd3",
+      "status" : "failed",
+      "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
+      "time" : {
+        "start" : 1731768957802,
+        "stop" : 1731768979512,
+        "duration" : 21710
+      }
+    } ]
+  },
+  "6a24c27062dfb49ad01ab8bfbe610fed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "32ee551b596a0366",
+      "status" : "broken",
+      "statusDetails" : "java.util.concurrent.TimeoutException\nBuild info: version: '4.25.0', revision: '8a8aea2337'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d189275468cd8a853629ad95dffc7338, get {url=https://stellarburgers.nomoreparties.site/}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.814, chrome: {chromedriverVersion: 128.0.6613.119 (6e439cfca4d..., userDataDir: C:\\Users\\ANASTA~1\\AppData\\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64863}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64863/devtoo..., se:cdpVersion: 128.0.6613.814, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d189275468cd8a853629ad95dffc7338",
+      "time" : {
+        "start" : 1731769170948,
+        "stop" : 1731769382713,
+        "duration" : 211765
+      }
+    } ]
+  },
+  "7186d45864ecdaaf4f4811e72d71e5a5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "22162e6ac77567f3",
+      "status" : "failed",
+      "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
+      "time" : {
+        "start" : 1731769049565,
+        "stop" : 1731769066483,
+        "duration" : 16918
+      }
+    } ]
+  },
+  "c753cf0bc945c35b9ff13d527d52506f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ead1307aaf8b63bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731768904047,
+        "stop" : 1731768920959,
+        "duration" : 16912
+      }
+    } ]
+  },
+  "b9d99025e10402273f2c29b41d65b794" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "da8918003e552b10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731770295770,
+        "stop" : 1731770318394,
+        "duration" : 22624
+      }
+    } ]
+  },
+  "469d0ecbc8cc0b3f629fdc5cd9e360c0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4d899d82a4b2c4c7",
+      "status" : "failed",
+      "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
+      "time" : {
+        "start" : 1731769104984,
+        "stop" : 1731769170942,
+        "duration" : 65958
+      }
+    } ]
+  },
+  "7a884ece54e9cd82a6eaaa44a2f932f8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7d574ebe253e3244",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731769851004,
+        "stop" : 1731770004251,
+        "duration" : 153247
+      }
+    } ]
+  },
+  "fa4a2bd085aa54dde713879079c38cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4577e41df0a795e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731768920962,
+        "stop" : 1731768940995,
+        "duration" : 20033
+      }
+    } ]
+  },
+  "ebf4aeec8e9d9eb023d5a82a6d8d594e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "940b9eb91dc6a10d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731770004252,
+        "stop" : 1731770022378,
+        "duration" : 18126
+      }
+    } ]
+  },
+  "a1cb5dbaa340880e210a0c61c00aa75d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a795cbcbf699f5ca",
+      "status" : "failed",
+      "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
+      "time" : {
+        "start" : 1731768941000,
+        "stop" : 1731768957799,
+        "duration" : 16799
+      }
+    } ]
+  },
+  "b5f649701bf613b649ba9ca68db47311" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5df0fb704ccf0f49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731768979517,
+        "stop" : 1731768996110,
+        "duration" : 16593
+      }
+    } ]
+  },
+  "cb246a83c90a5faf88ebb2b195ecd833" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c740e9e66cb436f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731769832559,
+        "stop" : 1731769851000,
+        "duration" : 18441
+      }
+    } ]
+  },
+  "93ef6bf7b16a03d6a004737e0695179" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cbb7034b93be37ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731769066487,
+        "stop" : 1731769087590,
+        "duration" : 21103
+      }
+    } ]
+  },
+  "429da859b1062319feacb10ab21a054c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "52842956c2aff903",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731769087595,
+        "stop" : 1731769104978,
+        "duration" : 17383
+      }
+    } ]
+  }
+}
