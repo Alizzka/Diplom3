@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: webTests.yandex.AccountLoginYandexTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 65.968 s <<< FAILURE! - in webTests.yandex.AccountLoginYandexTest
-webTests.yandex.AccountLoginYandexTest.testLoginViaButtonPersonalCabinetIntoPersonalCabinetYandex  Time elapsed: 65.953 s  <<< FAILURE!
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.79 s <<< FAILURE! - in webTests.yandex.AccountLoginYandexTest
+webTests.yandex.AccountLoginYandexTest.testLoginViaButtonPersonalCabinetIntoPersonalCabinetYandex  Time elapsed: 3.781 s  <<< FAILURE!
 org.junit.ComparisonFailure: URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>
 	at org.junit.Assert.assertEquals(Assert.java:117)
 	at webTests.yandex.AccountLoginYandexTest.testLoginViaButtonPersonalCabinetIntoPersonalCabinetYandex(AccountLoginYandexTest.java:25)

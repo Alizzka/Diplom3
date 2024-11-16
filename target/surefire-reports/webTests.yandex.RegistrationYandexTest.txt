@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: webTests.yandex.RegistrationYandexTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 115.528 s - in webTests.yandex.RegistrationYandexTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.671 s - in webTests.yandex.RegistrationYandexTest
