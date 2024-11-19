@@ -1,261 +1,261 @@
 [ {
-  "uid" : "3eb7299168cf7a42",
-  "name" : "testLoginViaRegisterFormButtonYandex",
+  "uid" : "9d26cc05bade1168",
+  "name" : "testBunsSection[0]",
   "time" : {
-    "start" : 1731770985245,
-    "stop" : 1731770998491,
-    "duration" : 13246
+    "start" : 1732008097357,
+    "stop" : 1732008099991,
+    "duration" : 2634
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d92cc7824b991c9e",
-  "name" : "testSuccessfulRegistrationYandex",
+  "uid" : "c899c251d3ce12f2",
+  "name" : "testLoginViaPersonalCabinetButton[1]",
   "time" : {
-    "start" : 1731771003074,
-    "stop" : 1731771007539,
-    "duration" : 4465
+    "start" : 1732008140797,
+    "stop" : 1732008144343,
+    "duration" : 3546
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "db2e415e9eee5b05",
-  "name" : "testExitButtonGoogle",
+  "uid" : "23753f3d8d1970d0",
+  "name" : "testLoginViaLoginAccountButton[1]",
   "time" : {
-    "start" : 1731770926658,
-    "stop" : 1731770929319,
-    "duration" : 2661
+    "start" : 1732008153157,
+    "stop" : 1732008157400,
+    "duration" : 4243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b03227080b1f4fca",
+  "name" : "testFillingsSection[1]",
+  "time" : {
+    "start" : 1732008110763,
+    "stop" : 1732008114388,
+    "duration" : 3625
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8efae487af2338b3",
+  "name" : "testLoginViaButtonPersonalCabinetIntoPersonalCabinet[1]",
+  "time" : {
+    "start" : 1732008093614,
+    "stop" : 1732008097341,
+    "duration" : 3727
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "68a3a9fab8d8c5d",
-  "name" : "testConstructorButtonFromStellarBurgersLogoGoogle",
+  "uid" : "b241f4be720dd322",
+  "name" : "testRegistrationWithShortPassword[1]",
   "time" : {
-    "start" : 1731770883001,
-    "stop" : 1731770904692,
-    "duration" : 21691
+    "start" : 1732008175555,
+    "stop" : 1732008180072,
+    "duration" : 4517
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4feaa02c19f61a13",
+  "name" : "testLoginViaForgotPasswordButton[1]",
+  "time" : {
+    "start" : 1732008144351,
+    "stop" : 1732008148631,
+    "duration" : 4280
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cc9a6a5fbd4576b",
+  "name" : "testConstructorButtonFromStellarBurgersLogo[1]",
+  "time" : {
+    "start" : 1732008123297,
+    "stop" : 1732008127271,
+    "duration" : 3974
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "a4af2057720b25db",
-  "name" : "testLoginViaLoginAccountButtonGoogle",
+  "uid" : "2e989294a3e75ae9",
+  "name" : "testSaucesSection[1]",
   "time" : {
-    "start" : 1731770923328,
-    "stop" : 1731770926655,
-    "duration" : 3327
+    "start" : 1732008108128,
+    "stop" : 1732008110751,
+    "duration" : 2623
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "8df2d89cb76fce57",
-  "name" : "testBunsSection",
+  "uid" : "fc09767dae12008c",
+  "name" : "testExitButton[0]",
   "time" : {
-    "start" : 1731770940903,
-    "stop" : 1731770943604,
-    "duration" : 2701
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1401ee158709c715",
-  "name" : "testLoginViaRegisterFormButtonGoogle",
-  "time" : {
-    "start" : 1731770918169,
-    "stop" : 1731770923326,
-    "duration" : 5157
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3626a1ac961cf590",
-  "name" : "testConstructorButtonFromStellarBurgersLogoYandex",
-  "time" : {
-    "start" : 1731770951345,
-    "stop" : 1731770969856,
-    "duration" : 18511
+    "start" : 1732008157412,
+    "stop" : 1732008160992,
+    "duration" : 3580
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "92b4629cc315e252",
-  "name" : "testConstructorButtonFromPersonalCabinetYandex",
+  "uid" : "48e9876330dfa217",
+  "name" : "testSuccessfulRegistration[1]",
   "time" : {
-    "start" : 1731770969858,
-    "stop" : 1731770974014,
-    "duration" : 4156
+    "start" : 1732008171921,
+    "stop" : 1732008175553,
+    "duration" : 3632
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ace33fe11a9fc889",
+  "name" : "testLoginViaPersonalCabinetButton[0]",
+  "time" : {
+    "start" : 1732008127287,
+    "stop" : 1732008130009,
+    "duration" : 2722
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfb60ed35d5c9717",
+  "name" : "testConstructorButtonFromPersonalCabinet[1]",
+  "time" : {
+    "start" : 1732008119908,
+    "stop" : 1732008123295,
+    "duration" : 3387
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "587ecdff1837acdf",
-  "name" : "testSuccessfulRegistrationGoogle",
+  "uid" : "d53a1b443b74d3c2",
+  "name" : "testLoginViaRegisterFormButton[1]",
   "time" : {
-    "start" : 1731770933374,
-    "stop" : 1731770937092,
-    "duration" : 3718
+    "start" : 1732008148632,
+    "stop" : 1732008153155,
+    "duration" : 4523
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "8005c1a33d47b613",
-  "name" : "testSaucesSection",
+  "uid" : "c4b1f036c8ae6ddb",
+  "name" : "testLoginViaButtonPersonalCabinetIntoPersonalCabinet[0]",
   "time" : {
-    "start" : 1731770943607,
-    "stop" : 1731770947511,
-    "duration" : 3904
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "36f6f2556dce4d29",
-  "name" : "testSaucesSection",
-  "time" : {
-    "start" : 1731770875053,
-    "stop" : 1731770877747,
-    "duration" : 2694
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7f2fb67d15ad6200",
-  "name" : "testRegistrationWithShortPasswordGoogle",
-  "time" : {
-    "start" : 1731770929325,
-    "stop" : 1731770933372,
-    "duration" : 4047
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8fd186a4254bc278",
-  "name" : "testLoginViaPersonalCabinetButtonGoogle",
-  "time" : {
-    "start" : 1731770904697,
-    "stop" : 1731770909291,
-    "duration" : 4594
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6a02651d0c57e941",
-  "name" : "testConstructorButtonFromPersonalCabinetGoogle",
-  "time" : {
-    "start" : 1731770879875,
-    "stop" : 1731770882999,
-    "duration" : 3124
+    "start" : 1732008087248,
+    "stop" : 1732008093500,
+    "duration" : 6252
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "b2ba03c1279c1ce7",
-  "name" : "testLoginViaForgotPasswordButtonGoogle",
+  "uid" : "66f15da90f46ca5a",
+  "name" : "testConstructorButtonFromStellarBurgersLogo[0]",
   "time" : {
-    "start" : 1731770909292,
-    "stop" : 1731770918166,
-    "duration" : 8874
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1dc1f9679a39b48",
-  "name" : "testLoginViaPersonalCabinetButtonYandex",
-  "time" : {
-    "start" : 1731770978273,
-    "stop" : 1731770981738,
-    "duration" : 3465
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e0bf54a25558345c",
-  "name" : "testLoginViaLoginAccountButtonYandex",
-  "time" : {
-    "start" : 1731770974016,
-    "stop" : 1731770978271,
-    "duration" : 4255
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1305346346478426",
-  "name" : "testFillingsSection",
-  "time" : {
-    "start" : 1731770947531,
-    "stop" : 1731770951334,
-    "duration" : 3803
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ec12d31fef1ac9b2",
-  "name" : "testBunsSection",
-  "time" : {
-    "start" : 1731770853508,
-    "stop" : 1731770875046,
-    "duration" : 21538
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d92bf6b472ad3b7b",
-  "name" : "testRegistrationWithShortPasswordYandex",
-  "time" : {
-    "start" : 1731771007542,
-    "stop" : 1731771015748,
-    "duration" : 8206
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "657a76a954ee1a5d",
-  "name" : "testLoginViaButtonPersonalCabinetIntoPersonalCabinetYandex",
-  "time" : {
-    "start" : 1731770937096,
-    "stop" : 1731770940891,
-    "duration" : 3795
+    "start" : 1732008116849,
+    "stop" : 1732008119902,
+    "duration" : 3053
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "2b7b12093f7660af",
-  "name" : "testFillingsSection",
+  "uid" : "f631c9c0062045b1",
+  "name" : "testRegistrationWithShortPassword[0]",
   "time" : {
-    "start" : 1731770877749,
-    "stop" : 1731770879871,
-    "duration" : 2122
+    "start" : 1732008168646,
+    "stop" : 1732008171920,
+    "duration" : 3274
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b13e27f3fa671c6f",
-  "name" : "testLoginViaForgotPasswordButtonYandex",
+  "uid" : "afd71f6bb09a5c51",
+  "name" : "testFillingsSection[0]",
   "time" : {
-    "start" : 1731770981740,
-    "stop" : 1731770985244,
-    "duration" : 3504
+    "start" : 1732008103089,
+    "stop" : 1732008105332,
+    "duration" : 2243
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a580001527894247",
-  "name" : "testLoginViaButtonPersonalCabinetIntoPersonalCabinetGoogle",
+  "uid" : "cb54088c247378bf",
+  "name" : "testSuccessfulRegistration[0]",
   "time" : {
-    "start" : 1731770847238,
-    "stop" : 1731770853452,
-    "duration" : 6214
+    "start" : 1732008165200,
+    "stop" : 1732008168644,
+    "duration" : 3444
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8435bd77d7cc1a7a",
+  "name" : "testBunsSection[1]",
+  "time" : {
+    "start" : 1732008105335,
+    "stop" : 1732008108121,
+    "duration" : 2786
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b1142a77967cb4e",
+  "name" : "testLoginViaLoginAccountButton[0]",
+  "time" : {
+    "start" : 1732008136391,
+    "stop" : 1732008140793,
+    "duration" : 4402
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62b9f73bfdc6caf9",
+  "name" : "testSaucesSection[0]",
+  "time" : {
+    "start" : 1732008099993,
+    "stop" : 1732008103087,
+    "duration" : 3094
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29741a747fe3faa5",
+  "name" : "testLoginViaForgotPasswordButton[0]",
+  "time" : {
+    "start" : 1732008130012,
+    "stop" : 1732008133473,
+    "duration" : 3461
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0bb0e434109d927",
+  "name" : "testExitButton[1]",
+  "time" : {
+    "start" : 1732008160999,
+    "stop" : 1732008165183,
+    "duration" : 4184
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "7683f56079b33b74",
-  "name" : "testExitButtonYandex",
+  "uid" : "9e328a7b7ec83999",
+  "name" : "testConstructorButtonFromPersonalCabinet[0]",
   "time" : {
-    "start" : 1731770998494,
-    "stop" : 1731771003059,
-    "duration" : 4565
+    "start" : 1732008114392,
+    "stop" : 1732008116845,
+    "duration" : 2453
   },
   "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d9c8d42c953552c",
+  "name" : "testLoginViaRegisterFormButton[0]",
+  "time" : {
+    "start" : 1732008133479,
+    "stop" : 1732008136385,
+    "duration" : 2906
+  },
+  "status" : "passed",
   "severity" : "normal"
 } ]
