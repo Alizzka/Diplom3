@@ -1,0 +1,261 @@
+[ {
+  "uid" : "9d26cc05bade1168",
+  "name" : "testBunsSection[0]",
+  "time" : {
+    "start" : 1732008097357,
+    "stop" : 1732008099991,
+    "duration" : 2634
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c899c251d3ce12f2",
+  "name" : "testLoginViaPersonalCabinetButton[1]",
+  "time" : {
+    "start" : 1732008140797,
+    "stop" : 1732008144343,
+    "duration" : 3546
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "23753f3d8d1970d0",
+  "name" : "testLoginViaLoginAccountButton[1]",
+  "time" : {
+    "start" : 1732008153157,
+    "stop" : 1732008157400,
+    "duration" : 4243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b03227080b1f4fca",
+  "name" : "testFillingsSection[1]",
+  "time" : {
+    "start" : 1732008110763,
+    "stop" : 1732008114388,
+    "duration" : 3625
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8efae487af2338b3",
+  "name" : "testLoginViaButtonPersonalCabinetIntoPersonalCabinet[1]",
+  "time" : {
+    "start" : 1732008093614,
+    "stop" : 1732008097341,
+    "duration" : 3727
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b241f4be720dd322",
+  "name" : "testRegistrationWithShortPassword[1]",
+  "time" : {
+    "start" : 1732008175555,
+    "stop" : 1732008180072,
+    "duration" : 4517
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4feaa02c19f61a13",
+  "name" : "testLoginViaForgotPasswordButton[1]",
+  "time" : {
+    "start" : 1732008144351,
+    "stop" : 1732008148631,
+    "duration" : 4280
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cc9a6a5fbd4576b",
+  "name" : "testConstructorButtonFromStellarBurgersLogo[1]",
+  "time" : {
+    "start" : 1732008123297,
+    "stop" : 1732008127271,
+    "duration" : 3974
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e989294a3e75ae9",
+  "name" : "testSaucesSection[1]",
+  "time" : {
+    "start" : 1732008108128,
+    "stop" : 1732008110751,
+    "duration" : 2623
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc09767dae12008c",
+  "name" : "testExitButton[0]",
+  "time" : {
+    "start" : 1732008157412,
+    "stop" : 1732008160992,
+    "duration" : 3580
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "48e9876330dfa217",
+  "name" : "testSuccessfulRegistration[1]",
+  "time" : {
+    "start" : 1732008171921,
+    "stop" : 1732008175553,
+    "duration" : 3632
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ace33fe11a9fc889",
+  "name" : "testLoginViaPersonalCabinetButton[0]",
+  "time" : {
+    "start" : 1732008127287,
+    "stop" : 1732008130009,
+    "duration" : 2722
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfb60ed35d5c9717",
+  "name" : "testConstructorButtonFromPersonalCabinet[1]",
+  "time" : {
+    "start" : 1732008119908,
+    "stop" : 1732008123295,
+    "duration" : 3387
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d53a1b443b74d3c2",
+  "name" : "testLoginViaRegisterFormButton[1]",
+  "time" : {
+    "start" : 1732008148632,
+    "stop" : 1732008153155,
+    "duration" : 4523
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4b1f036c8ae6ddb",
+  "name" : "testLoginViaButtonPersonalCabinetIntoPersonalCabinet[0]",
+  "time" : {
+    "start" : 1732008087248,
+    "stop" : 1732008093500,
+    "duration" : 6252
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "66f15da90f46ca5a",
+  "name" : "testConstructorButtonFromStellarBurgersLogo[0]",
+  "time" : {
+    "start" : 1732008116849,
+    "stop" : 1732008119902,
+    "duration" : 3053
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f631c9c0062045b1",
+  "name" : "testRegistrationWithShortPassword[0]",
+  "time" : {
+    "start" : 1732008168646,
+    "stop" : 1732008171920,
+    "duration" : 3274
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "afd71f6bb09a5c51",
+  "name" : "testFillingsSection[0]",
+  "time" : {
+    "start" : 1732008103089,
+    "stop" : 1732008105332,
+    "duration" : 2243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb54088c247378bf",
+  "name" : "testSuccessfulRegistration[0]",
+  "time" : {
+    "start" : 1732008165200,
+    "stop" : 1732008168644,
+    "duration" : 3444
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8435bd77d7cc1a7a",
+  "name" : "testBunsSection[1]",
+  "time" : {
+    "start" : 1732008105335,
+    "stop" : 1732008108121,
+    "duration" : 2786
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b1142a77967cb4e",
+  "name" : "testLoginViaLoginAccountButton[0]",
+  "time" : {
+    "start" : 1732008136391,
+    "stop" : 1732008140793,
+    "duration" : 4402
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62b9f73bfdc6caf9",
+  "name" : "testSaucesSection[0]",
+  "time" : {
+    "start" : 1732008099993,
+    "stop" : 1732008103087,
+    "duration" : 3094
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29741a747fe3faa5",
+  "name" : "testLoginViaForgotPasswordButton[0]",
+  "time" : {
+    "start" : 1732008130012,
+    "stop" : 1732008133473,
+    "duration" : 3461
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0bb0e434109d927",
+  "name" : "testExitButton[1]",
+  "time" : {
+    "start" : 1732008160999,
+    "stop" : 1732008165183,
+    "duration" : 4184
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e328a7b7ec83999",
+  "name" : "testConstructorButtonFromPersonalCabinet[0]",
+  "time" : {
+    "start" : 1732008114392,
+    "stop" : 1732008116845,
+    "duration" : 2453
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d9c8d42c953552c",
+  "name" : "testLoginViaRegisterFormButton[0]",
+  "time" : {
+    "start" : 1732008133479,
+    "stop" : 1732008136385,
+    "duration" : 2906
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,7 @@
+.allure/
+.idea/
+generated-test-sources/
+maven-status/
+data/
+export/
+plugins/
