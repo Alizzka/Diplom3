@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: UITests.AccountLoginTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 10.355 s <<< FAILURE! - in UITests.AccountLoginTest
-UITests.AccountLoginTest.testLoginViaButtonPersonalCabinetIntoPersonalCabinet[0]  Time elapsed: 6.412 s  <<< FAILURE!
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 9.943 s <<< FAILURE! - in UITests.AccountLoginTest
+UITests.AccountLoginTest.testLoginViaButtonPersonalCabinetIntoPersonalCabinet[0]  Time elapsed: 4.36 s  <<< FAILURE!
 org.junit.ComparisonFailure: URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>
 	at org.junit.Assert.assertEquals(Assert.java:117)
 	at UITests.AccountLoginTest.testLoginViaButtonPersonalCabinetIntoPersonalCabinet(AccountLoginTest.java:39)
@@ -45,7 +45,7 @@ org.junit.ComparisonFailure: URL после входа должен быть г�
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
 
-UITests.AccountLoginTest.testLoginViaButtonPersonalCabinetIntoPersonalCabinet[1]  Time elapsed: 3.728 s  <<< FAILURE!
+UITests.AccountLoginTest.testLoginViaButtonPersonalCabinetIntoPersonalCabinet[1]  Time elapsed: 5.465 s  <<< FAILURE!
 org.junit.ComparisonFailure: URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>
 	at org.junit.Assert.assertEquals(Assert.java:117)
 	at UITests.AccountLoginTest.testLoginViaButtonPersonalCabinetIntoPersonalCabinet(AccountLoginTest.java:39)

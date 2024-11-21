@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: UITests.RegistrationTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.851 s - in UITests.RegistrationTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.918 s - in UITests.RegistrationTest

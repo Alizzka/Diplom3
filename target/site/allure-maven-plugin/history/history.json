@@ -9,12 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f631c9c0062045b1",
+      "uid" : "3210e0945c0b1add",
       "status" : "passed",
       "time" : {
-        "start" : 1732008168646,
-        "stop" : 1732008171920,
-        "duration" : 3274
+        "start" : 1732191495808,
+        "stop" : 1732191499439,
+        "duration" : 3631
       }
     } ]
   },
@@ -28,12 +28,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ace33fe11a9fc889",
+      "uid" : "12226ded72e5eff",
       "status" : "passed",
       "time" : {
-        "start" : 1732008127287,
-        "stop" : 1732008130009,
-        "duration" : 2722
+        "start" : 1732191449825,
+        "stop" : 1732191453024,
+        "duration" : 3199
       }
     } ]
   },
@@ -47,12 +47,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "29741a747fe3faa5",
+      "uid" : "f6d0a67f4eacb88b",
       "status" : "passed",
       "time" : {
-        "start" : 1732008130012,
-        "stop" : 1732008133473,
-        "duration" : 3461
+        "start" : 1732191453029,
+        "stop" : 1732191456371,
+        "duration" : 3342
       }
     } ]
   },
@@ -66,13 +66,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d0bb0e434109d927",
+      "uid" : "332c00b562b7460",
       "status" : "failed",
       "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
       "time" : {
-        "start" : 1732008160999,
-        "stop" : 1732008165183,
-        "duration" : 4184
+        "start" : 1732191488449,
+        "stop" : 1732191491804,
+        "duration" : 3355
       }
     } ]
   },
@@ -86,12 +86,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9d26cc05bade1168",
+      "uid" : "161aecdd515695dc",
       "status" : "passed",
       "time" : {
-        "start" : 1732008097357,
-        "stop" : 1732008099991,
-        "duration" : 2634
+        "start" : 1732191406079,
+        "stop" : 1732191409198,
+        "duration" : 3119
       }
     } ]
   },
@@ -105,12 +105,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "48e9876330dfa217",
+      "uid" : "62ce7cf7ed6ed6b2",
       "status" : "passed",
       "time" : {
-        "start" : 1732008171921,
-        "stop" : 1732008175553,
-        "duration" : 3632
+        "start" : 1732191499445,
+        "stop" : 1732191504134,
+        "duration" : 4689
       }
     } ]
   },
@@ -124,12 +124,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "cb54088c247378bf",
+      "uid" : "a1752333fd4d7365",
       "status" : "passed",
       "time" : {
-        "start" : 1732008165200,
-        "stop" : 1732008168644,
-        "duration" : 3444
+        "start" : 1732191491809,
+        "stop" : 1732191495807,
+        "duration" : 3998
       }
     } ]
   },
@@ -143,13 +143,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c4b1f036c8ae6ddb",
+      "uid" : "3cebf1aa59b48049",
       "status" : "failed",
       "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
       "time" : {
-        "start" : 1732008087248,
-        "stop" : 1732008093500,
-        "duration" : 6252
+        "start" : 1732191396265,
+        "stop" : 1732191400545,
+        "duration" : 4280
       }
     } ]
   },
@@ -163,13 +163,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8efae487af2338b3",
+      "uid" : "873ece6cf4cc2a9e",
       "status" : "failed",
       "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
       "time" : {
-        "start" : 1732008093614,
-        "stop" : 1732008097341,
-        "duration" : 3727
+        "start" : 1732191400601,
+        "stop" : 1732191406065,
+        "duration" : 5464
       }
     } ]
   },
@@ -183,12 +183,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8b1142a77967cb4e",
+      "uid" : "a687e1a55e927861",
       "status" : "passed",
       "time" : {
-        "start" : 1732008136391,
-        "stop" : 1732008140793,
-        "duration" : 4402
+        "start" : 1732191460189,
+        "stop" : 1732191463273,
+        "duration" : 3084
       }
     } ]
   },
@@ -202,13 +202,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9e328a7b7ec83999",
+      "uid" : "bb729e22555e4095",
       "status" : "failed",
       "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
       "time" : {
-        "start" : 1732008114392,
-        "stop" : 1732008116845,
-        "duration" : 2453
+        "start" : 1732191426449,
+        "stop" : 1732191429967,
+        "duration" : 3518
       }
     } ]
   },
@@ -222,12 +222,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8435bd77d7cc1a7a",
+      "uid" : "cb698600185da34",
       "status" : "passed",
       "time" : {
-        "start" : 1732008105335,
-        "stop" : 1732008108121,
-        "duration" : 2786
+        "start" : 1732191413846,
+        "stop" : 1732191416579,
+        "duration" : 2733
       }
     } ]
   },
@@ -241,12 +241,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b241f4be720dd322",
+      "uid" : "bd87d3fec45387e1",
       "status" : "passed",
       "time" : {
-        "start" : 1732008175555,
-        "stop" : 1732008180072,
-        "duration" : 4517
+        "start" : 1732191504136,
+        "stop" : 1732191507740,
+        "duration" : 3604
       }
     } ]
   },
@@ -260,12 +260,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d53a1b443b74d3c2",
+      "uid" : "2b9b9ead3d57315",
       "status" : "passed",
       "time" : {
-        "start" : 1732008148632,
-        "stop" : 1732008153155,
-        "duration" : 4523
+        "start" : 1732191475866,
+        "stop" : 1732191479085,
+        "duration" : 3219
       }
     } ]
   },
@@ -279,12 +279,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "afd71f6bb09a5c51",
+      "uid" : "975226ac13da63e7",
       "status" : "passed",
       "time" : {
-        "start" : 1732008103089,
-        "stop" : 1732008105332,
-        "duration" : 2243
+        "start" : 1732191411392,
+        "stop" : 1732191413843,
+        "duration" : 2451
       }
     } ]
   },
@@ -298,12 +298,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b03227080b1f4fca",
+      "uid" : "78d415553c4ecec8",
       "status" : "passed",
       "time" : {
-        "start" : 1732008110763,
-        "stop" : 1732008114388,
-        "duration" : 3625
+        "start" : 1732191421295,
+        "stop" : 1732191426438,
+        "duration" : 5143
       }
     } ]
   },
@@ -317,13 +317,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "66f15da90f46ca5a",
+      "uid" : "acae477d3d134a06",
       "status" : "failed",
       "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
       "time" : {
-        "start" : 1732008116849,
-        "stop" : 1732008119902,
-        "duration" : 3053
+        "start" : 1732191429971,
+        "stop" : 1732191433368,
+        "duration" : 3397
       }
     } ]
   },
@@ -337,12 +337,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "62b9f73bfdc6caf9",
+      "uid" : "e0ce4b5000473329",
       "status" : "passed",
       "time" : {
-        "start" : 1732008099993,
-        "stop" : 1732008103087,
-        "duration" : 3094
+        "start" : 1732191409200,
+        "stop" : 1732191411389,
+        "duration" : 2189
       }
     } ]
   },
@@ -356,13 +356,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8cc9a6a5fbd4576b",
+      "uid" : "3a2e24da94c3ab96",
       "status" : "failed",
       "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
       "time" : {
-        "start" : 1732008123297,
-        "stop" : 1732008127271,
-        "duration" : 3974
+        "start" : 1732191437287,
+        "stop" : 1732191449819,
+        "duration" : 12532
       }
     } ]
   },
@@ -376,13 +376,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "cfb60ed35d5c9717",
+      "uid" : "1e6a1e000a090d2f",
       "status" : "failed",
       "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
       "time" : {
-        "start" : 1732008119908,
-        "stop" : 1732008123295,
-        "duration" : 3387
+        "start" : 1732191433371,
+        "stop" : 1732191437281,
+        "duration" : 3910
       }
     } ]
   },
@@ -396,12 +396,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4d9c8d42c953552c",
+      "uid" : "66e4c6d6e2fb4134",
       "status" : "passed",
       "time" : {
-        "start" : 1732008133479,
-        "stop" : 1732008136385,
-        "duration" : 2906
+        "start" : 1732191456374,
+        "stop" : 1732191460186,
+        "duration" : 3812
       }
     } ]
   },
@@ -415,12 +415,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2e989294a3e75ae9",
+      "uid" : "821cc934cb589d3c",
       "status" : "passed",
       "time" : {
-        "start" : 1732008108128,
-        "stop" : 1732008110751,
-        "duration" : 2623
+        "start" : 1732191416589,
+        "stop" : 1732191421293,
+        "duration" : 4704
       }
     } ]
   },
@@ -434,12 +434,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4feaa02c19f61a13",
+      "uid" : "43e6f9fc082f2b26",
       "status" : "passed",
       "time" : {
-        "start" : 1732008144351,
-        "stop" : 1732008148631,
-        "duration" : 4280
+        "start" : 1732191470319,
+        "stop" : 1732191475863,
+        "duration" : 5544
       }
     } ]
   },
@@ -453,31 +453,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c899c251d3ce12f2",
+      "uid" : "c05a73edeeee8137",
       "status" : "passed",
       "time" : {
-        "start" : 1732008140797,
-        "stop" : 1732008144343,
-        "duration" : 3546
-      }
-    } ]
-  },
-  "166cb39d4f1297315473c6f30e49f7f" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "23753f3d8d1970d0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1732008153157,
-        "stop" : 1732008157400,
-        "duration" : 4243
+        "start" : 1732191463284,
+        "stop" : 1732191470315,
+        "duration" : 7031
       }
     } ]
   },
@@ -491,13 +472,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "fc09767dae12008c",
+      "uid" : "177b61a187d447ca",
       "status" : "failed",
       "statusDetails" : "URL после входа должен быть главной страницей expected:<....nomoreparties.site/[]> but was:<....nomoreparties.site/[login]>",
       "time" : {
-        "start" : 1732008157412,
-        "stop" : 1732008160992,
-        "duration" : 3580
+        "start" : 1732191484076,
+        "stop" : 1732191488446,
+        "duration" : 4370
+      }
+    } ]
+  },
+  "166cb39d4f1297315473c6f30e49f7f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e0c1db0f0f1109c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1732191479086,
+        "stop" : 1732191484060,
+        "duration" : 4974
       }
     } ]
   }
