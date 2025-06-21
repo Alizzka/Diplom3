@@ -33,7 +33,6 @@ public class WebDriverFactory {
                 throw new IllegalArgumentException("Unknown browser: " + browser);
         }
     }
-
 }
 
 // При указании конкретного пути к вебдрайверам
