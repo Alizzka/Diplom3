@@ -28,7 +28,7 @@ public class ConstructorPage {
     @FindBy(xpath = "//*[@id=\"root\"]/div/main/section[1]/div[2]/h2[3]")
     private WebElement saucesHeaderFillings;
 
-    // Локатор активного раздела Начинки
+    // Локатор активного раздела Булки
     @FindBy(xpath = "//*[@id=\"root\"]/div/main/section[1]/div[2]/h2[1]")
     private WebElement saucesHeaderBuns;
 
